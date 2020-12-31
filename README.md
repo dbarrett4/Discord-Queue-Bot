@@ -4,6 +4,8 @@ This was created using the DSharp+ library (https://github.com/DSharpPlus/DSharp
 
 Simply change the 'token' attribute in 'config.json' to your bots own token, then run the .exe and your bot will come online.
 
+The config.json as well as the .exe can be founf in DiscordQueueBot1.0/DiscordQueueBot1.0/bin/Debug/netcoreapp3.1
+
 Default commands:
 - !j = Joins the user to the queue
 - !l = Removes the user to the queue
