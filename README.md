@@ -19,3 +19,4 @@ To complete in the future:
 - Add permision based commands (!clear, !cancel, etc.)
 - Purchase server space to have the .exe run 24/7
 - Different queues for different servers (There is one, universal queue as of right now)
+- Add a "pick" system for teams
